@@ -1,9 +1,9 @@
-title:             Clean Blog
+title:             凯骊中国
 email:             your-email@example.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:           "/"
+url:               "https://www.celier-china.com"
 
 # Social Profiles
 twitter_username:  SBootstrap
